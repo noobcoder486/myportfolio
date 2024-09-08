@@ -22,14 +22,14 @@ Ask me in person for other stories that I'm afraid to share with the internet.
 
 # I like
 
-- Books ([Almanack of Naval Ravikant]('https://navalmanack.s3.amazonaws.com/Eric-Jorgenson_The-Almanack-of-Naval-Ravikant_Final.pdf'),[The Code of an ExtraOrdinary Mind]('https://www.amazon.in/CODE-EXTRAORDINARY-MIND-Vishen-Lakhiani/dp/1623367085'),Rework)
+- Books (Almanack of Naval Ravikant,The Code of an ExtraOrdinary Mind,Rework)
 - Logic Building
 - Space & Galaxies
 - Spiritual Conciousness
-- Colored pencils ([Faber-Castell Polychromos](https://www.faber-castell.com/products/art-and-graphic/polychromos))
-- Podcasts ([WTF by Nikhil Kamath](https://podcasts.apple.com/in/podcast/wtf-is-with-nikhil-kamath/id1677107935), [Figuring Out](https://podcasts.apple.com/in/podcast/raj-shamanis-figuring-out/id1501941375), [Naval Ravikant](https://nav.al/), [The Ranveer Show](https://podcasts.apple.com/in/podcast/the-ranveer-show/id1490896085) and others)
-- [Good design](/)
-- [Photography](https://instagram.com/_shubhxx_)
+- Colored pencils (Faber-Castell Polychromos)
+- Podcasts (WTF by Nikhil Kamath, Figuring Out, Naval Ravikant, The Ranveer Show and others)
+- [Good design](/myportfolio)
+- Photography
 
 # Fun facts
 

@@ -29,24 +29,12 @@ const work = [
     ],
   },
   {
-    name: 'Yodaplus Technology',
-    position: 'Django Developer',
-    startDate: '2022-04-04',
-    endDate: '2022-06-30',
-    summary: `Got an Hands on experience in Python viz creating APIs and working on a small Quiz App Project,
-    also got to know about modern MVT architecture of Django and functionality of ORM enabling efficient data communication,
-    from databases`,
-    highlights: [
-      'Developed APIs using Django',
-    ],
-  },
-  {
     name: 'Brackets Infinity Pvt. Ltd',
     position: 'Software Engineer',
-    startDate: '2021-07-26',
-    endDate: '2022-03-31',
+    startDate: '2021-06-01',
+    endDate: '2022-09-28',
     summary: `Transformed user experiences by developing dynamic client-side web applications
-    with Angular frameworks. Expertly integrated SQL databases for streamlined data management. 
+    with Angular framework and DotNet Core API. Expertly integrated SQL databases for streamlined data management. 
     Collaborated within cross-functional teams to analyze requirements, co-design innovative solutions, 
     and deliver impactful projects. Thrived in solving intricate problems and optimizing performance
     in a dynamic development environment`,

@@ -1,11 +1,11 @@
 {
   "name": "personal-site",
   "version": "4.0.0",
-  "homepage": "https://noobcoder486.github.io/myself/",
+  "homepage": "https://noobcoder486.github.io/myportfolio/",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/noobcoder486/myself.git"
+    "url": "https://github.com/noobcoder486/myportfolio.git"
   },
   "engines": {
     "node": ">=16.x"
@@ -16,6 +16,7 @@
     "lint": "eslint \"**/*.js\"",
     "predeploy": "npm run build && react-snap",
     "start": "react-scripts start",
+    "deploy":"gh-pages -d build",
     "test": "npx jest"
   },
   "dependencies": {
